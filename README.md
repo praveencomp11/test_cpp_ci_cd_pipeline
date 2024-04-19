@@ -6,7 +6,7 @@
 
 ```
 1. docker login registry.gitlab.com -u praveen.hore@gmail.com
-When asked for password enter personal access token e.g.: glpat-EGonM_wNMJSafxHLHzFm
+When asked for password enter personal access token e.g.: sfsdfdfsdfsdaba abab
 
 2.docker pull registry.gitlab.com/praveencomp11/test_cpp_ci_cd_pipeline:myfirstcppapp
 
